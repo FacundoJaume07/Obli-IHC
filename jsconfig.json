@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "checkJs": true,
+    "strict": true,
+    "typeRoots": [
+      "c:\\Users\\safaj\\.vscode\\extensions\\jordimantilla.extension2-0-1.1.0\\types"
+    ],
+    "types": [
+      "ADODBWrapper",
+      "global",
+      "MSScriptControlHelper",
+      "PowerStreet.CacheClient",
+      "PowerStreet",
+      "PowerStreet.Interfaces",
+      "PowerStreet.SessionManager",
+      "PowerStreetDB",
+      "PowerStreetFS",
+      "PWST_Reporter",
+      "PwstAzure",
+      "SQLBuilder",
+      "systemC#"
+    ]
+  },
+  "include": [
+    "**/*.js",
+    "c:\\Users\\safaj\\.vscode\\extensions\\jordimantilla.extension2-0-1.1.0\\types\\**\\*.d.ts"
+  ]
+}
